@@ -22,7 +22,7 @@ To get started with this project, you can clone this repository and run the code
 
 ## Usage
 
-The code in this repository can be used to train and evaluate a CNN model for facial expression recognition on the [FER2013 dataset](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data). The trained model can then be used to classify facial expressions in new images.
+The code in this repository can be used to train and evaluate a CNN model for facial expression recognition on the [FER2013 dataset](https://www.kaggle.com/datasets/msambare/fer2013). The trained model can then be used to classify facial expressions in new images.
 
 ## Acknowledgments
 
