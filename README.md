@@ -16,7 +16,7 @@ CNNs are a type of artificial neural network that are commonly used for image cl
 
 ANNs are a family of machine learning models inspired by the structure and function of biological neural networks. They are composed of interconnected nodes that process and transmit information, allowing them to learn complex relationships and patterns in data.
 
-## Output
+### Output
 
 ![Alt Text](Output.gif "Output")
 
