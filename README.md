@@ -20,7 +20,7 @@ ANNs are a family of machine learning models inspired by the structure and funct
 
 ![Alt Text](Output.gif "CAM output")
 
-![Alt Text](GUI output.jpg "GUI output")
+![Alt Text](GUIoutput.jpg "GUI output")
 
 ## Getting Started
 
