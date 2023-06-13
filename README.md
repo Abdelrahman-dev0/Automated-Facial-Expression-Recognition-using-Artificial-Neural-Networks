@@ -33,3 +33,5 @@ This project was inspired by the work of researchers in the field of facial expr
 - Facial Expression Detection using Machine Learning in Python: [Medium](https://medium.com/analytics-vidhya/facial-expression-detection-using-machine-learning-in-python-c6a188ac765f)
 
 If you have any questions or suggestions, feel free to contact us. Thank you for visiting our repository!
+
+© 2022 Automated Facial Expression Recognition using Artificial Neural Networks. All rights reserved.
